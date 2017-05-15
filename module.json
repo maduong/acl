@@ -1,0 +1,8 @@
+{
+    "alias": "edutalk-acl",
+    "name": "Edutalk ACL",
+    "author": "Vuong Pham - <a href=\"https://gitlab.edutalk.vn/vuong.pham\">https://gitlab.edutalk.vn/vuong.pham</a>",
+    "description": "Access control list package. Handle user permissions, roles.",
+    "namespace": "Edutalk\\Base\\ACL",
+    "autoload": "psr-4"
+}
