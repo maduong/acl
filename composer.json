@@ -9,10 +9,12 @@
             "email": "kingdom102@gmail.com"
         }
     ],
-    "support": {
-        "issues": "https://github.com/maduong/acl/issues",
-        "source": "https://github.com/maduong/acl"
-    },
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/maduong/acl"
+      }
+    ],
     "require": {
         "php": ">=5.6.4"
     },
